@@ -146,6 +146,36 @@ body{
     color: black;
 }
 
+.product-2{
+    background-color: #eb81a5;
+    display: flex;
+}
 
+.product-2 img{
+    max-width: 100%;
+    object-fit: contain;
+    height: 100%;
+}
 
+.product-3{
+    background-color: #f1ff67;
+    display: flex;
+}
+
+.product-3 img{
+    max-width: 100%;
+    object-fit: contain;
+    height: 100%;
+}
+
+.product-4{
+    background-color: #006241;
+    display: flex;
+}
+
+.product-4 img{
+    max-width: 100%;
+    object-fit: contain;
+    height: 100%;
+}
 
